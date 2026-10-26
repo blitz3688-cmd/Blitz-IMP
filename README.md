@@ -18,7 +18,7 @@
 </p>
 
 <p align="center"> 
-<a href="#"><img title="Nino Nakano Bot" src="https://img.shields.io/badge/100%25 Gratuito · Código Abierto · Multifunción -purple?colorA=%239b33b0&colorB=%231c007b&style=for-the-badge"></a> 
+<a href="#"><img title="Blitzø IMP Bot" src="https://img.shields.io/badge/100%25 Gratuito · Código Abierto · Multifunción -purple?colorA=%239b33b0&colorB=%231c007b&style=for-the-badge"></a> 
 </p>
 
 ---
