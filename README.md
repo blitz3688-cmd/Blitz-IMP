@@ -1,5 +1,5 @@
 > [!NOTE]
-> **Nino Nakano Bot no para de crecer.** Cada semana llegan funciones nuevas, mejoras y sorpresas para que tu experiencia en WhatsApp sea única. No te quedes fuera de nada. [¡Únete a nuestro canal!](https://whatsapp.com/channel/0029VbBUzJ6DzgT8o9NiMq2b)
+> **Blitzø IMP Bot no para de crecer.** Cada semana llegan funciones nuevas, mejoras y sorpresas para que tu experiencia en WhatsApp sea única. No te quedes fuera de nada
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c007b,100:9b33b0&height=200&section=header&text=NINO%20NAKANO%20BOT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%">
