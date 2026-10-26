@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-<img src="https://d0mwa043ankuvadx.public.blob.vercel-storage.com/nyx/1fDFmi0.jpg" alt="Nino Nakano Bot" style="width: 75%; height: auto; max-width: 100px;">
+<img src="https://d0mwa043ankuvadx.public.blob.vercel-storage.com/nyx/1fDFmi0.jpg" alt="Blitzø IMP Bot" style="width: 75%; height: auto; max-width: 100px;">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9B33B0&center=true&vCenter=true&width=480&lines=Bienvenido+a+Nino+Nakano+Bot+%E2%9C%A6;R%C3%A1pido.+Estable.+Adictivo.;Construido+con+Baileys;Hecho+para+destacar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9B33B0&center=true&vCenter=true&width=480&lines=Bienvenido+a+Blitzø++IMP+Bot+%E2%9C%A6;R%C3%A1pido.+Estable.+Adictivo.;Construido+con+Baileys;Hecho+para+destacar" alt="Typing SVG" />
 </p>
 
 <p align="center">
